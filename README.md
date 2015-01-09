@@ -1,4 +1,4 @@
-11693-06
+Cortana
 ========
 
 - Designed and implemented a Question Answering (QA) system focusing on bio-medical questions based on Apache UIMA Framework, which is also the fundamental tools for IBM Watson Project.
